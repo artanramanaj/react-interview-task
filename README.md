@@ -2,7 +2,7 @@
 
 Open a terminal (`cmd`, `Git Bash`, etc.) and run the following commands:
 
-1. git clone https://github.com/developersflex/react-interview-task.git
+1. git clone https://github.com/artanramanaj/react-interview-task.git
 2. cd react-interview-task
 3. npm install
 4. npm run dev
